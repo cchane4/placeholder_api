@@ -1,0 +1,27 @@
+{
+  "name": "placeholder_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchane4/placeholder_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cchane4/placeholder_api/issues"
+  },
+  "homepage": "https://github.com/cchane4/placeholder_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "locus": "^2.0.1"
+  }
+}
